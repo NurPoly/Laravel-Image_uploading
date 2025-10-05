@@ -21,4 +21,4 @@ PHP 8+
 
 MySQL / SQLite (optional)
 
-Tailwind CSS (if used)
+Boostrap CSS (if used)
